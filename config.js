@@ -1,16 +1,16 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "STINGER-V4"
-global.dana = "2349070810971"
+global.storename = "LARRY SHOP"
+global.dana = "2347085593182"
 global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2349070810971"
-global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
+global.owner = "2347085593182"
+global.namabot = "LARRY SHOP"
 global.nomorbot = "2349070810971"
-global.namaCreator = "DarkAngel"
+global.namaCreator = "LARRY SHOP"
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
 global.antilink = false
@@ -32,9 +32,9 @@ global.location = '1'
 
 global.codeInvite = ""
 global.imageurl = 'https://i.ibb.co/BnYRXcw/STINGER-V4.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
-global.packname = "ES TEAMS"
-global.author = "ES TEAMS"
+global.isLink = 'https://whatsapp.com/channel/0029VariWCvCBtxNKBmHoS06'
+global.packname = "LARRY SHOP"
+global.author = "LARRY SHOP"
 global.jumlah = "5"
 
 
