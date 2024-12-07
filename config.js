@@ -2,14 +2,14 @@ require("./database/module")
 
 //GLOBAL PAYMENT
 global.storename = "Jennifer"
-global.dana = "2349124562645"
+global.dana = "2347080797045"
 global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2349124562645"
+global.owner = "2347080797045"
 global.namabot = "Jennifer"
-global.nomorbot = "2349124562645"
+global.nomorbot = "2347080797045"
 global.namaCreator = "Jennifer"
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
